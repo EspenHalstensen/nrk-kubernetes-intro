@@ -17,7 +17,7 @@ const work = [
     {
         yearFrom: 2010,
         yearTo: 2018,
-        place: 'BBC Radio',
+        place: 'NRK',
         comment: 'Was doing stuff'
     },
     {
@@ -29,7 +29,7 @@ const work = [
 ]
 
 const me = {
-    name: 'Arthur Dent',
+    name: 'Espen Halstensen',
     location: 'Earth'
 }
 
